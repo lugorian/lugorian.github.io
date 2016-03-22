@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lugorian.com</title>
+      <title> on lugorian.com </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://lugorian.github.io/</link>
-    <description>Recent content on lugorian.com</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Mar 2016 19:09:31 +0100</lastBuildDate>
-    <atom:link href="https://lugorian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Tue, 22 Mar 2016 19:09:31 CET</updated>
     
     <item>
       <title>hello</title>
       <link>https://lugorian.github.io/post/hello/</link>
-      <pubDate>Tue, 22 Mar 2016 19:09:31 +0100</pubDate>
+      <pubDate>Tue, 22 Mar 2016 19:09:31 CET</pubDate>
       
       <guid>https://lugorian.github.io/post/hello/</guid>
-      <description></description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
