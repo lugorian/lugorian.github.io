@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lugorian.com</title>
+    <link>https://lugorian.github.io/</link>
+    <description>Recent content on lugorian.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2016 19:09:31 +0100</lastBuildDate>
+    <atom:link href="https://lugorian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>https://lugorian.github.io/post/hello/</link>
+      <pubDate>Tue, 22 Mar 2016 19:09:31 +0100</pubDate>
+      
+      <guid>https://lugorian.github.io/post/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
